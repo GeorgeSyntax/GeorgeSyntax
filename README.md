@@ -18,4 +18,4 @@
 
 [github]: https://github.com/georgeSyntax/
 
-[facebook]: https://www.facebook.com/george-smith
+[facebook]: https://web.facebook.com/people/George-Smith/100082252668821/?refsrc=deprecated
