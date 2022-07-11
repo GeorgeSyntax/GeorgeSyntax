@@ -7,6 +7,9 @@
 - 📚 I'm currently learning everything.
 
 - 👨‍🔬 I'm currently science physics.
+## Donation
+from world [streamlabs.com](https://streamlabs/donate/georgesmith)
+from indonesian [saweria.co](https://saweria.co/georgesmith)
 
 ### Connect with me
 
