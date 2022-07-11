@@ -1,12 +1,12 @@
-### Hello there, I'm  アキクヘバット - George Smith 
+### 👋🏻 Hello there, I'm  アキクヘバット - George Smith 
 
 ## I'm a Full Stack Web Developer and JavaScript Next Developer.
 
--  I work on some office, Shinjuku City, Tokyo 160-0021, Japan
+- 💼 I work on some office, Shinjuku City, Tokyo 160-0021, Japan
 
--  I'm currently learning everything.
+- 📚 I'm currently learning everything.
 
--  I'm currently science physics.
+- 👨‍🔬 I'm currently science physics.
 
 ### Connect with me
 
